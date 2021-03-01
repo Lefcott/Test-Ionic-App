@@ -1,7 +1,0 @@
-{
-  "name": "WeBuildWebz",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
